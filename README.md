@@ -8,6 +8,7 @@
 - [x] Add authentiaction (w/ Clerk)
 - [] Error managment (w/ Sentry)
 - [] Add Image upload
+- [] taint (server-only)
 - [] Routing/image page (parallel route)
 - [] Delete button (w/ Server Actions)
 - [] Analytics (posthog)
